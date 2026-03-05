@@ -80,5 +80,4 @@ This repository has been refactored from research notebooks into a professional 
 - **Package Management:** Adopted `pyproject.toml` and standard `src/` layout for better maintainability and reproducibility.
 
 ## References
-
-Barton, J., Gaspariunas, A., Galson, J. D., & Leem, J. (2024). **Building Representation Learning Models for Antibody Comprehension.** *Cold Spring Harbor Perspectives in Biology*.
+Liu, M., Zhang, Y., & Zhang, Y. (2025). Exploring protein language model architecture-induced biases for antibody comprehension. arXiv preprint. https://arxiv.org/abs/2512.09894v1
